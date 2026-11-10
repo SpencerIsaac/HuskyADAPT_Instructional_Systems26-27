@@ -40,13 +40,20 @@ Ex. This project requires beginner-level soldering and hand-tool usage; Advanced
 <!-- Phrased for SEO/AEO/GEO -->
 <!-- https://marketplace.visualstudio.com/items?itemName=huntertran.auto-markdown-toc -->
 # Table of contents
+- [How to Adapt Toy Name](#how-to-adapt-toy-name)
 - [Introduction](#introduction)
+    - [Toy details](#toy-details)
+    - [Toy features](#toy-features)
+    - [Adaption difficulty](#adaption-difficulty)
 - [Table of contents](#table-of-contents)
 - [General procedure](#general-procedure)
 - [Safety precautions](#safety-precautions)
 - [Tools and setup](#tools-and-setup)
 - [Full procedure](#full-procedure)
     - [Part 1: Preparing the toy](#part-1-preparing-the-toy)
+        - [Step 1: Remove the toy from the package](#step-1-remove-the-toy-from-the-package)
+        - [Step 2: Declarative step](#step-2-declarative-step)
+        - [Step 3: Declarative step](#step-3-declarative-step)
     - [Part 2: Understanding the circuit board](#part-2-understanding-the-circuit-board)
     - [Part 3: Making space for the new switch](#part-3-making-space-for-the-new-switch)
     - [Part 4: Soldering](#part-4-soldering)
@@ -54,6 +61,8 @@ Ex. This project requires beginner-level soldering and hand-tool usage; Advanced
         - [4.2: Custom Soldering 2](#42-custom-soldering-2)
     - [Part 5: Testing and reassembling the adapted toy](#part-5-testing-and-reassembling-the-adapted-toy)
 - [Appendix](#appendix)
+    - [Troubleshooting](#troubleshooting)
+    - [FAQ](#faq)
     - [Resources](#resources)
     - [Acknowledgements](#acknowledgements)
     - [About HuskyADAPT and Instructional Systems](#about-huskyadapt-and-instructional-systems)
@@ -91,8 +100,6 @@ When soldering:
 
 When drilling:
 - Drill away from yourself and watch your fingers.  
-
-Link out to more safety guidance.
 
 # Tools and setup
 Link out.
@@ -159,10 +166,14 @@ Link out.
 
 # Appendix
 
+## Troubleshooting
+Link out.
+
+## FAQ
+Link out.
+
 ## Resources
-- Link to resources
-- Link to resources
-- Link to resources
+- List of links?
 
 ## Acknowledgements
 Resources used to develop this manual. People who helped: contributors, editors, etc.
