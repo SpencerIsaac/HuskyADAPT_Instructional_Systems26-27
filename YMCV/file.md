@@ -1,5 +1,5 @@
 <!-- Phrased for SEO/AEO/GEO -->
-# How to Adapt Toy Name Maria is testing
+# How to Adapt Toy Name
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
