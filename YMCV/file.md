@@ -167,7 +167,21 @@ Link out.
 # Appendix
 
 ## Troubleshooting
-Link out.
+I'm having trouble with...
+
+ Soldering
+- What if I melt too much metal when soldering and the nodes on my circuit board touch?
+- How would I fix the wire if it is yanked out of the toy?
+
+ Buttons
+- What do I do if the toy does not respond after connecting an adapted button?
+- What do I do if the toy only activates when I'm holding down on the adapted button?
+- What if the toy only works intermittently (might change the word due to common knowledge)?
+- What if the toy's original functions stop working?
+
+ Toy Casing
+- What if the toy casing won't close?
+
 
 ## FAQ
 Link out.
