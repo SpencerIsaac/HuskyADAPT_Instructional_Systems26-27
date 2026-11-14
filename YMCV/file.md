@@ -168,6 +168,7 @@ Link out.
 
 ## Troubleshooting
 I'm having trouble with...
+(try to figure out dropdown for each category)
 
  Soldering
 - What if I melt too much metal when soldering and the nodes on my circuit board touch?
