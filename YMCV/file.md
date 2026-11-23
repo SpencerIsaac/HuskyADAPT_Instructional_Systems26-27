@@ -167,7 +167,7 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 
 ---
 
-## Part 2: Understanding the circuit board
+## Part 2: Understanding the circuitry
 
 <!-- Many teams used the quotation function for visual callouts (slay) -->
 <!-- YMCV provided emojis! -->
@@ -177,6 +177,16 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 > 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy
 
 ### Step 2: Carefully remove the base of the toy
+
+### Step 3: Test activation points
+> ✏️ **Note**: Unlike most toys with a circuit board, this dice roller has connection points where wires connect to components. 
+
+Each black and red pair activates the corresponding button to the dice roller. Test this by taking a strip wire with both ends exposed, and placing each end on a black and red point.
+
+### Step 4: Identify the two pins you wish to connect.
+This would correspond to the next part of the manual where you make space for the new switch.
+
+### Step x:
 
 > ✏️ **Note**: Note.
 
