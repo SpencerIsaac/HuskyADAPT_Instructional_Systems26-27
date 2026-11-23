@@ -187,6 +187,7 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 ---
 
 ## Part 3: Making space for the new switch
+Start part 3 with choosing where to attach the adapted button's wire to the dice roller. Then, following with drilling a hole into the toy, safely.
 
 ---
 
