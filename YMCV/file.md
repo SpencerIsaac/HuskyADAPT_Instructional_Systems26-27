@@ -212,10 +212,31 @@ This would correspond to the next part of the manual where you make space for th
 
 ## Part 4: Soldering
 
-<!-- Custom options from TBD -->
-### 4.1: Custom Soldering 1
+### 4.1: Prepare and apply flux to the wires
 
-### 4.2: Custom Soldering 2
+1. Strip a small amount of insulation (about 1/8" to 1/4") from the ends of the headphone jack wires so the bare wire strands are exposed.
+2. Twist the exposed strands tightly between your fingers so they do not fray.
+3. Apply a small amount of flux to the wire ends or connection points to help the solder flow cleanly.
+
+<img src="assets/images/JPEG%20conversions/IMG_7567.jpeg" alt="Applying flux from a green flux pen to wires inside the dice roller base" width="300"/>
+
+*4.1: Applying flux to the connection area while holding the wires in place*
+
+> 💡 **Tip**: Using flux makes it much easier for solder to wet the metal cleanly and reduces the chance of cold joints or solder bridges.
+
+### 4.2: Solder the wires to the activation points
+
+1. Locate the two activation points (such as a red and black wire pair or switch terminals) you identified in [Part 2](#part-2-understanding-the-circuitry) for the button you want to adapt.
+2. Hold the soldering iron tip against the joint while feeding a small amount of solder so it flows smoothly around the connection.
+3. Remove the solder first, then the iron, and hold the wire steady for a couple of seconds until the joint solidifies. Repeat for the second wire.
+
+<img src="assets/images/JPEG%20conversions/IMG_7575.jpeg" alt="Soldering iron and solder wire joining a wire to a terminal inside the dice roller base" width="300"/>
+
+*4.2: Soldering the wire onto the activation point inside the dice roller base*
+
+> ⚠️ **Caution**: Avoid applying too much solder or holding the iron on one spot for too long, which can cause solder bridges or damage nearby components.
+
+> ✏️ **Note**: Make sure there is a little slack on the wires inside the toy so they are not pulled taut when you close the casing in [Part 5](#part-5-testing-and-reassembling-the-adapted-toy).
 
 ---
 
