@@ -202,6 +202,10 @@ This would correspond to the next part of the manual where you make space for th
 
 ### Step 2: Use the electric drill to open up a hole at your determined spot
 
+<img src="assets/images/JPEG%20conversions/drilling_hole_top_view.jpeg" alt="Image of drilling hole through determined spot" width="300"/>
+
+*3.1: Drill a hole through your determined spot*
+
 > ⚠️ **Caution**: Make sure that someone else is securing the toy in place while drilling, so that it doesn't go flying off 
 
 ---
