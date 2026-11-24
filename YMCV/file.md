@@ -202,7 +202,7 @@ This dice roller has connection points where wires connect to components. Identi
 To test activation points, briefly bridge the black and red points in its pair with a test wire that has exposed metal at both ends. The corresponding button will activate.
 
 <img src="assets/images/JPEG%20conversions/testing_wires_2.jpeg" alt="Testing the wires to find the activation points" width="300"/>
-*2.4: Test activation points (buttons) by using a test wire*
+*2.4: Test activation points by using a test wire*
 
 ### Step 4: Identify the two pins you wish to connect.
 This would correspond to the next part of the manual where you make space for the new switch.
