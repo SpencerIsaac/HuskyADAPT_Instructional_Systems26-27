@@ -161,7 +161,9 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 
 ---
 
-### Step 3: Press all buttons (indicated by purple circles in Fig. 2.2), one by one, to assess the functionality of the toy. 
+### Step 3: Assess the functionality of the toy. 
+
+Press all buttons (indicated by purple circles in Fig. 2.2), one by one, to assess the functionality of the toy. 
 
 > ✏️ **Note**: If the buttons do not activate the toy, you may need to open the battery compartment (refer to Fig 2.2) and insert or replace batteries.
 
@@ -195,12 +197,12 @@ Carefully remove the base from the toy body to expose its internal components.
 This dice roller has connection points where wires connect to components. Identify all 4 black and red wire pairs that share the same connection point. Each pair corresponds to a button.
 
 <!-- Insert image pointing out connection points, and example of black and red pair. -->
-*2.3: 4 black and red wire pairs that connect to components*
+*2.3: Location of 4 black and red wire pairs that connect to components*
 
 To test activation points, briefly bridge the black and red points in its pair with a test wire that has exposed metal at both ends. The corresponding button will activate.
 
 <img src="assets/images/JPEG%20conversions/testing_wires_2.jpeg" alt="Testing the wires to find the activation points" width="300"/>
-*2.3: Test activation points (buttons) by using a test wire*
+*2.4: Test activation points (buttons) by using a test wire*
 
 ### Step 4: Identify the two pins you wish to connect.
 This would correspond to the next part of the manual where you make space for the new switch.
