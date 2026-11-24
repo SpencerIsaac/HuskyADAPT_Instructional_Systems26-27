@@ -186,6 +186,7 @@ Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Fi
 Carefully remove the base from the toy body to expose its internal components.
 
 <img src="assets/images/JPEG%20conversions/toy_internal_layout_5.jpeg" alt="Inside of the toy" width="300"/>
+
 *2.2: This is what the internal components look like*
 
 ### Step 3: Test activation points
