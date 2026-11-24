@@ -3,38 +3,39 @@
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
-Version no. and last updated  
+Version 1. Last updated on 22 November 2026.
 
 <!-- Many teams included alt text eyyy -->
-<img src="" alt="Picture of toy" />
+<p align = "center"> 
+<img src="assets/images/dice_roller.jpg" alt="Picture of dice roller toy" width=300/>
+</p>
 
 <!-- YMCV key intro info -->
 # Introduction
-* The dice roller is a toy that that rolls the dice through the press of a button.
-* This adaptation guide explains how to adapt (insert names and descriptions of features being adapted)
+* The dice roller is a toy with a spinner inside that rolls dice and is activated with a press of one of four buttons. It can be used for playing all sorts of games including table top roleplaying games like Dungeons and Dragons, board games like Monopoly, and strategy games like Mahjong, among others. 
+* This adaptation guide explains how to adapt the functionality of any of the four buttons used to make the dice roll, so that they can be activated with the press of a singular, large button. 
 
 <!-- KALM good standard inclusion -->
 > For more information, reach out to HuskyADAPT at adaptuw@uw.edu.
 
 <!-- KALM good standard info -->
 ## Toy details
-**Link**: Link to purchase  
-**Name**: Official toy name  
-**Brand**: Brand  
-**UPC**: UPC  
+**Link**: [Amazon link to dice roller](https://a.co/d/0alVkROF)  
+**Name**: Automatic Dice Roller Cup with Dices for Adults Party Table Games EK1981  
+**Brand**: Gikfun  
+**ASIN**: B0BNT3Z7QN
 
 ## Toy features
 | Light | Sound | Motion |
-|-------|-------|--------|
-| light_icon   | sound_icon   | motion_icon    |
+|:---:|:---:|:---:|
+|💡|🔊|🔃|
+|❌|✅|✅|
 
-Sensory outputs involved in operation of the toy.
-
+Pressing any of the four buttons on the dice roller makes the spinner inside to spin, causing the dice to roll and make a rattling sound.
 ## Adaption difficulty
 **Difficulty 1/3: Beginner-friendly**
 
-Complexity level of adaptation and description of prior experience required.
-Ex. This project requires beginner-level soldering and hand-tool usage; Advanced experience in soldering required for this project.  
+This project requires beginner-level soldering and hand-tool usage. 
 
 <!-- Linky like AWESOME -->
 <!-- Phrased for SEO/AEO/GEO -->
@@ -102,7 +103,37 @@ When drilling:
 - Drill away from yourself and watch your fingers.  
 
 # Tools and setup
-Link out.
+## Tools
+<img src="assets/images/tools.png" alt="Image of tools (drill and screwdriver)" width=300>
+
+1. Electric drill with a drill bit at least 3/8"  
+2. Small Phillips head screwdriver  
+
+### Soldering Tools
+<img src="assets/images/soldering.png" alt="Image of soldering tools (wire holder, solder, soldering iron and stand, sponge, fan, safety glasses)" width=500> 
+
+3. Alligator clip wire holder (optional)  
+4. Lead-free solder  
+5. Soldering iron and stand  
+6. High-temperature sponge or brass wool  
+7. Fan  
+8. Safety glasses  
+
+## Extra Materials
+<img src="assets/images/materials.png" alt="Image of extra materials for adaptation (button switch and headphone jack)" width=300>
+
+9. Switch  
+10. 3.5mm headphone jack  
+
+## Setup
+
+<figure>
+    <img src="assets/images/soldering_equipment_4.HEIC" alt="Image of soldering setup">
+    <figcaption>Example setup</figcaption>
+</figure>
+
+
+Set up a well-ventilated workspace with a clear desk or workbench. Work near an open window, outdoors, or under a vent hood or fume extractor. Plug the soldering iron in, set it on the stand, and ensure it is easy to reach.
 
 <!-- Kept linear for screen reader convenience and less whitespace -->
 # Full procedure
@@ -110,12 +141,52 @@ Link out.
 
 <!-- Subsection as heading allows for clearer distinction of which images belong to which step -->
 ### Step 1: Remove the toy from the package
-<img src="" alt="Process photo" />
+<img src="assets/images/box.jpg" alt="Image of box" width=300/>
 
-*Caption here*  
+*1.1: The Dice Roller packaging*  
+
+> ✏️ **Note**: If you intend to donate the toy after adapting, be careful not to damage the packaging, as unboxing is a big part of the gift opening experience.
+
+<!-- Separators from KALM; good visual separation between steps -->
+---
+
+### Step 2: Note the points marked in Fig. 1.2:
+<img src="assets/images/toy_notes.png" alt="Image of marked points of interest on top and bottom of toy" width=500/>
+
+*1.2: Top and bottom of the toy*  
+
+- **Purple circles**: 4x buttons to activate the toy
+- **White triangles**: 3x base attachment screws
+- **Yellow Rectangle**: 1x battery compartment
+
+---
+
+### Step 3: Press all buttons (indicated by purple circles in Fig. 2.2), one by one, to assess the functionality of the toy. 
+
+> ✏️ **Note**: If the buttons do not activate the toy, you may need to open the battery compartment (refer to Fig 2.2) and insert or replace batteries.
+
+---
+
+## Part 2: Understanding the circuitry
 
 <!-- Many teams used the quotation function for visual callouts (slay) -->
 <!-- YMCV provided emojis! -->
+
+### Step 1: Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Figure 1.2 for their positions)
+
+> 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy
+
+### Step 2: Carefully remove the base of the toy
+
+### Step 3: Test activation points
+> ✏️ **Note**: Unlike most toys with a circuit board, this dice roller has connection points where wires connect to components. 
+
+Each black and red pair activates the corresponding button to the dice roller. Test this by taking a strip wire with both ends exposed, and placing each end on a black and red point.
+
+### Step 4: Identify the two pins you wish to connect.
+This would correspond to the next part of the manual where you make space for the new switch.
+
+### Step x:
 
 > ✏️ **Note**: Note.
 
@@ -123,28 +194,19 @@ Link out.
 
 > 💡 **Tip**: Tip.  
 
-<!-- Separators from KALM; good visual separation between steps -->
----
-
-### Step 2: Declarative step
-<img src="" alt="Process photo" />
-
-*Caption here*  
-
----
-
-### Step 3: Declarative step
-<img src="" alt="Process photo" />
-
-*Caption here*  
-
----
-
-## Part 2: Understanding the circuit board
-
 ---
 
 ## Part 3: Making space for the new switch
+
+### Step 1: The adapted toy will have a headphone jack with its leads soldered to the activation points of the toy (refer to [Part 2](#part-2-understanding-the-circuitry)) that connects to a switch. This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
+
+### Step 2: Use the electric drill to open up a hole at your determined spot
+
+<img src="assets/images/JPEG%20conversions/drilling_hole_top_view.jpeg" alt="Image of drilling hole through determined spot" width="300"/>
+
+*3.1: Drill a hole through your determined spot*
+
+> ⚠️ **Caution**: Make sure that someone else is securing the toy in place while drilling, so that it doesn't go flying off 
 
 ---
 
@@ -160,7 +222,40 @@ Link out.
 <!-- Part 5 from TBD -->
 ## Part 5: Testing and reassembling the adapted toy
 
----
+### Step 1: Pop the cover of the battery compartment and reinsert the batteries
+
+***
+
+### Step 2: Plug the switch into the headphone jack
+<img src="assets/images/JPEG%20conversions/headphone_jack_%26_button_9.jpeg" alt="Image of headphone jack and adapted switch being connected” width="300”/>
+
+*5.1: The headphone jack being connected to the adapted switch
+
+***
+
+### Step 3: Test the functionality of the toy by pressing on the switch once. If the toy fails to activate, refer to [troubleshooting for failed toy activation](#what-do–I-do-if-the-toy-does-not-respond-after-adapting-it-and-pressing-the-adapted-switch) or revisit [Part 4: Soldering](#part-4-soldering). Check that there are no issues with the batteries and that the headphone jack cable is soldered securely to the original activation switch of the toy
+
+***
+
+### Step 4: Use the Phillips screwdriver to re-screw the base attachment screws of the toy into place
+
+> ✏️ **Note**: Refer to [Step 2 of Part 1](#step-2-note-the-points-marked-in-fig-1.2) for the positions of the base attachment screws
+
+***
+
+### Step 5: Place the cover of the battery compartment back into place
+
+***
+
+### Step 6: Test the functionality of the toy while it is closed (repeat Step 3)
+
+> 💡 **Tip**: Ensure that the functionality of the toy is intact by pressing every button, one by one. If you run into any problems, refer to [troubleshooting for loss of toy’s original functions](#what-if-the-toys-original-functions-stop-working)
+
+***
+
+### Step 7: Congratulations, you have successfully switch adapted the Automatic Dice Roller Cup with Dices for Adults Party Table Games EK1981!
+
+
 
 <!-- Completely new -->
 
@@ -298,4 +393,8 @@ Resources used to develop this manual. People who helped: contributors, editors,
 
 <!-- Should also live in the style guide. Will be under development! -->
 ## About HuskyADAPT and Instructional Systems
-Description.
+HuskyAdapt is a student organization at the University of Washington, Seattle campus that is dedicated to supporting accessible design and inclusive play technology.  
+
+Instructional Systems, a branch within HuskyAdapt, aims to employ human-centered design practices to connect communities with the resources, knowledge, and networks to create accessible play. This goal is achieved specifically through the study of existing programs and the needs of aspiring community facilitators, the creation of clear, user-centered manuals, and the design of programs and content strategy to support communities.
+
+For more information about Husky Adapt or Instructional Systems, visit the [Husky Adapt homepage] (https://www.huskyadapt.me.uw.edu) or contact us at adaptuw@uw.edu. 

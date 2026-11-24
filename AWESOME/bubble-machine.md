@@ -1,12 +1,12 @@
-# How to Switch Adapt the Fubbles No-Spill Fun-Finiti Bubble Machine
+# How to Switch Adapt the Funrise Gazillion Bubbles Hurricane
 
-Version 0.1.0 | Last updated: 15 November 2026
+Version 2.0.0 | Last updated: 22 November 2026
 
-![Fubbles No-Spill Fun-Finiti Bubble Machine](images/fubbles-fun-finiti.jpg)
+![Funrise Gazillion Bubbles Hurricane](bubbleimages/bubbleboxfront.JPG)
 
 ## Introduction
 
-The Fubbles No-Spill Fun-Finiti Bubble Machine is a battery-operated toy that uses a motorized mechanism to produce bubbles.
+The Funrise Gazillion Bubbles Hurricane is a battery-operated toy that uses a motorized mechanism to produce bubbles.
 
 This adaptation guide explains how to modify the bubble machine to support an external adaptive switch. The modification provides an alternative way to activate the toy while retaining its original functionality.
 
@@ -16,13 +16,13 @@ This adaptation guide explains how to modify the bubble machine to support an ex
 
 | **Detail** | **Information** |
 |---|---|
-| Name | Fubbles No-Spill Fun-Finiti Bubble Machine |
-| Brand | Fubbles |
-| Manufacturer | Little Kids, Inc. |
-| Item number | 456 |
-| UPC | 093539004564 |
-| Power source | 4 AA batteries |
-| Purchase link | [Insert verified purchase link] |
+| Name | Funrise Gazillion Bubbles Hurricane |
+| Brand | Gazillion |
+| Manufacturer | Funrise, Inc |
+| Item number | 32417 |
+| UPC | 885379904179, 885156898196, 885156908635, 021664324172, 885423477031 |
+| Power source | 6 AA batteries |
+| Purchase link | [Purchase on Amazon](https://a.co/d/05VLI0Io) |
 
 ### Toy features
 
@@ -30,20 +30,21 @@ The following table identifies the sensory outputs involved in operating the toy
 
 | Light | Sound | Motion |
 |:---:|:---:|:---:|
-| [Verify] | [Verify] | [Verify] |
+| [ ] | [x] | [ ] |
 
 ### Adaptation difficulty
 
-**Difficulty 2/3: Intermediate (provisional)**
+**Difficulty 2/3: Intermediate**
 
 This project involves modifying the toy's existing electrical circuit and adding an external switch connection. Previous experience with basic electronics and soldering is recommended. An experienced adult should supervise modifications involving electrical tools and components.
 
-## Table of contents
+### Table of contents
 
 - [Introduction](#introduction)
   - [Toy details](#toy-details)
   - [Toy features](#toy-features)
   - [Adaptation difficulty](#adaptation-difficulty)
+  - [Table of Contents](#table-of-contents)
 - [General procedure](#general-procedure)
 - [Safety precautions](#safety-precautions)
 - [Tools and setup](#tools-and-setup)
@@ -99,20 +100,17 @@ When drilling:
 
 - Drill away from yourself and watch your fingers.
 
-## Tools and setup
+## Tools and Setup
 
-Gather the materials and equipment needed for the adaptation before beginning.
+| **Instructions** | **Illustrations** |
+|:---|:---|
+| **Tools**<br>1. Electric or hand drill with a drill bit at least 3/8"<br>2. Small file<br>3. Small Phillips head screwdriver<br>4. Test wire<br>5. Wire strippers (24 AWG)| ![Tools, numbered 1–5 to match the list](toolsandmaterialsimages/generaltools.png) |
+|_**Soldering Tools**_<br>6. Fan<br>7. Soldering iron stand<br>8. High-temperature sponge or brass wool<br>9. Safety glasses<br>10. Soldering iron<br>11. Alligator clip wire holder (optional)|![Soldering Tools, numbered 6–11 to match the list](toolsandmaterialsimages/solderingtools.png)|
+| **Materials**<br>12. Audio jack with wire<br>13. Switch<br>14. Lead-free solder<br>15. Soldering tip tinner (optional) | ![Materials, numbered 12–15 to match the list](toolsandmaterialsimages/materials.png) |
+|**Setup**<br>Set up a well-ventilated workspace with a clear desk or workbench. Work near an open window, outdoors, or under a vent hood or fume extractor. Plug the soldering iron in and ensure it is easy to reach.|![Example Setup](toolsandmaterialsimages/examplesetup.jpg)|
 
-| **Category** | **Materials** |
-|---|---|
-| Toy | Fubbles No-Spill Fun-Finiti Bubble Machine |
-| Switch access | Compatible external adaptive switch |
-| Electrical components | Audio jack and audio jack cable |
-| Tools | Soldering iron, drill, and appropriate hand tools |
-| Testing | Batteries and compatible adaptive switch |
-| Safety equipment | Safety goggles and appropriate protective equipment |
+> **Note:** You will also need a small triangle driver for this adaptation.
 
-*Note: Confirm the exact materials and equipment used during the physical adaptation before publishing this list.*
 
 ## Full procedure
 
@@ -120,14 +118,14 @@ Gather the materials and equipment needed for the adaptation before beginning.
 
 #### Step 1: Remove the toy from the package
 
-![Fubbles No-Spill Fun-Finiti Bubble Machine in its original packaging](images/step-1-unpackaging.jpg)
+![Funrise Gazillion Bubbles Hurricane removed from its original packaging](bubbleimages/bubblesunpacked.JPG)
 
-*Figure 1. The Fubbles No-Spill Fun-Finiti Bubble Machine before adaptation.*
+*Figure 1. The Funrise Gazillion Bubbles Hurricane before adaptation.*
 
 - Remove the toy from its packaging.
 - Identify the included components and accessories.
 - Locate the battery compartment.
-- Identify the original button.
+- Identify the original switch.
 - Locate the bubble reservoir and motorized mechanism.
 
 > **Note:** Take photographs of the toy before beginning the adaptation. Use these photographs as references during reassembly.
@@ -136,30 +134,33 @@ Gather the materials and equipment needed for the adaptation before beginning.
 
 #### Step 2: Assess the toy's functions
 
-![Fubbles bubble machine showing its original components](images/step-2-original-functions.jpg)
+![Funrise Gazillion Bubbles Hurricane showing its battery compartment](bubbleimages/bubblesbatterycompartment.JPG)
 
-*Figure 2. Original components and functions of the bubble machine.*
+*Figure 2. Battery compartment of the bubble machine.*
 
+- Remove the front bubble liquid compartment.
+- Remove the rubber band from the bubble blower.
+- Reattach the front bubble liquid compartment.
+- Remove the top.
+- Unscrew the 4 screws with a Phillips head screwdriver to access the battery compartment.
+- Insert 6 AA batteries in the correct orientations.
+- Test the original switch.
 - Identify the toy's original functions.
-- Test the original button.
 - Observe how the bubble-blowing mechanism operates.
-- Determine which functions should become switch-accessible.
-- Document the toy's original operation.
 
 > **Tip:** Record the toy's original functionality before making modifications. This provides a reference for testing the adapted toy.
 
 ---
 
-#### Step 3: Document the original button
+#### Step 3: Document the original switch
 
-![Original button on the Fubbles bubble machine](images/step-3-original-button.jpg)
+![Funrise Gazillion Bubbles Hurricane showing its original switch](bubbleimages/bubblesback.JPG)
 
-*Figure 3. Original button and activation mechanism.*
+*Figure 3. Original switch of the bubble machine.*
 
-- Locate the original button.
-- Document its appearance and location.
-- Test how the button activates the toy.
-- Determine whether the button needs to remain functional after adaptation.
+- Document the appearance and location of the original switch.
+- Test how the original switch activates the toy.
+- Document the toy's original operation.
 
 > **Note:** Document whether the original button activates continuous operation or requires repeated interaction.
 
@@ -167,21 +168,19 @@ Gather the materials and equipment needed for the adaptation before beginning.
 
 ### Part 2: Understanding the circuit board
 
-![Internal electronics of the Fubbles bubble machine](images/part-2-circuit-board.jpg)
+![Internal wiring of the Funrise Gazillion Bubbles Hurricane](bubbleimages/bubbleswiring.JPG)
 
-*Figure 4. Internal electronics and original activation circuit.*
+*Figure 4. Internal wiring and original activation circuit.*
 
-Identify the electrical components responsible for operating the toy.
+- Unscrew the battery compartment using the triangle driver.
+- Identify the electrical components responsible for operating the toy.
+- Use a test wire to determine how to activate the toy.
 
 Document the following:
 
-- Circuit board.
-- Original button connections.
-- Motor connections.
+- Original switch connections.
 - Main circuit points responsible for activation.
 - Proposed audio jack connection points.
-
-Include a labeled photograph of the circuit board. Use circles to identify relevant components and distinguish connections using both colors and shapes.
 
 > **Note:** Confirm the circuit layout using the physical toy before documenting the electrical connections.
 
@@ -189,11 +188,11 @@ Include a labeled photograph of the circuit board. Use circles to identify relev
 
 ### Part 3: Making space for the new switch
 
-![Proposed audio jack location on the toy enclosure](images/part-3-switch-location.jpg)
+![Proposed audio jack location on the toy enclosure](bubbleimages/bubblesdrillinghole.JPG)
 
 *Figure 5. Proposed location for the audio jack connection.*
 
-Identify an appropriate location for the audio jack on the toy case.
+- Identify an appropriate location for the audio jack on the toy case.
 
 Document the following:
 
@@ -203,7 +202,8 @@ Document the following:
 - Placement of the audio jack cable.
 - Accessibility of the external switch connection.
 
-Include a photograph showing the proposed location and the corresponding enclosure modifications.
+- Make a hole in the toy using the drill.
+- Clean the hole with file.
 
 ---
 
@@ -213,45 +213,37 @@ Document the electrical modification that connects the external switch to the to
 
 #### 4.1: Identifying the switch connection
 
-![Labeled circuit board and proposed connection points](images/part-4-1-circuit-diagram.jpg)
+![Original switch and proposed connection points](bubbleimages/bubblesogswitch.jpg)
 
-*Figure 6. Circuit board showing the verified connection points.*
+*Figure 6. Circuit board showing the connection points.*
 
-Identify the main circuit points associated with the original button.
+- Verify the connection points from the image above by using the test wire.
+- Remove the batteries.
 
-Document the following:
-
-- Original button connections.
-- Proposed audio jack connection.
-- Circuit diagram.
-- Relevant electrical components.
 
 #### 4.2: Connecting the audio jack cable
 
-![Completed audio jack cable connection](images/part-4-2-audio-jack.jpg)
+![Completed audio jack cable connection](bubbleimages/bubblesaftersoldering.JPG)
 
 *Figure 7. Completed audio jack cable connection.*
 
-Document the completed audio jack connection and its relationship to the original activation circuit.
+- Thread the audio jack cable wire through the hole made in [Part 3](#part-3-making-space-for-the-new-switch).
+- Solder the wires to the two connection points marked in [Step 4.1](#41-identifying-the-switch-connection)
 
-Include photographs that identify:
-
-- Audio jack cable.
-- Soldered connections.
-- External audio jack.
-- Completed electrical modification.
-
-> **Note:** Verify the electrical connections against the actual circuit before testing the adapted toy.
+> **Note:** Never solder when the batteries are still in the toy.
 
 ---
 
 ### Part 5: Testing and reassembling the adapted toy
 
-![Completed switch-adapted Fubbles bubble machine](images/part-5-completed-toy.jpg)
+![Completed switch-adapted Funrise Gazillion Bubbles Hurricane](bubbleimages/bubblescompleted.JPG)
 
-*Figure 8. Completed Fubbles No-Spill Fun-Finiti Bubble Machine adaptation.*
+*Figure 8. Completed Funrise Gazillion Bubbles Hurricane adaptation.*
 
-Test the adapted toy to confirm that the external switch operates as intended.
+- Test the adapted toy to confirm that the external switch operates as intended.
+- Reattach the battery compartment using the triangle driver.
+- Reattach the battery compartment lid using the Phillips screwdriver.
+- Reattach the top.
 
 Complete the following checks:
 
@@ -262,9 +254,8 @@ Complete the following checks:
 - [ ] The electrical components are properly enclosed.
 - [ ] The toy case is securely reassembled.
 - [ ] The toy operates without obstruction.
-- [ ] The bubble reservoir remains properly contained.
 
-Document the completed adaptation with photographs of the toy, external switch connection, and operating mechanism.
+> **Note:** Verify the electrical connections against the actual circuit before testing the adapted toy.
 
 > **Tip:** Compare the adapted toy's functionality with its original operation to identify any changes introduced during the adaptation.
 
@@ -286,7 +277,7 @@ Use the following table to document common issues encountered during testing.
 
 **What toy does this manual adapt?**
 
-The Fubbles No-Spill Fun-Finiti Bubble Machine, manufactured by Little Kids, Inc.
+The Funrise Gazillion Bubbles Hurricane, manufactured by Funrise, Inc.
 
 **What is the purpose of the adaptation?**
 
@@ -307,8 +298,8 @@ The toy uses four AA batteries.
 ### Resources
 
 - [HuskyADAPT](https://depts.washington.edu/adaptuw/)
-- [Little Kids, Inc.](https://www.littlekidsinc.com/)
-- [Fubbles](https://www.fubbles.com/)
+- [Funrise, Inc.](https://www.funrise.com/)
+- [Gazillion](https://www.gazillion.com/)
 - [Enabling Devices](https://enablingdevices.com/)
 
 ### Acknowledgements
@@ -316,9 +307,9 @@ The toy uses four AA batteries.
 This manual was developed as part of HuskyADAPT's toy adaptation efforts.
 
 **Contributors:**
-- Manual authors: [Joshua Vo]
-- Editors and reviewers: [Names]
-- Photography: [Names]
+- Manual authors: [Helen Nguyen, Avik Spurgeon, Joshua Vo, Kyla Wang]
+- Editors and reviewers: [Helen Nguyen, Avik Spurgeon, Joshua Vo, Kyla Wang]
+- Photography: [Helen Nguyen, Avik Spurgeon]
 
 ### About HuskyADAPT and Instructional Systems
 

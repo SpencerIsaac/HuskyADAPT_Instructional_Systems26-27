@@ -111,20 +111,32 @@ Score (cut part way through) the Paddle (A) piece, along the short 4 inch side, 
 
 ### Part 2: Taping the pieces
 #### Step 1: Prepare the Base (A)
-![alt text](image path)
-*Caption here*
+![The base piece with foam tape attached to the center with its edge touching the short side.](assets/part2_foamtape.jpg)
+*Foam tape on the base piece*
 
-Add two pieces of 5 inch aluminum conductive tape to the Base (A). Center and overlap the pieces so that there is a X inch border between the edge of the piece and the tape.
+Cut a 1 inch piece of foam tape. Attach it in the middle of the 4 inch side of the Base (A) so that the edge of the foam tape is at the edge of the Base.
 
-Place a 1 inch piece of foam tape in the middle of the 4 inch side between the tape and the edge.
+![The base piece with foam tape and conductive tape attached.](assets/part2_tapejpg.jpg)
+*Foam tape and conductive tape installed on the base piece*
+
+Cut a 5 inch piece of aluminum conductive tape. Attach it to the center of the Base (A) directly below the foam tape. 
 
 #### Step 2: Prepare the Paddle (B)
-![alt text](image path)
-*Caption here*
+![Paddle piece is slightly bent with the tape installed.](assets/part2_paddletape.jpg)
+*Paddle piece is slightly bent with the tape installed.*
 
-Add a 6 inch piece of aluminum conductive tape to the Paddle (B). Center the piece and leave X inch from the scored side. 
+Cut a 6 inch piece of aluminum conductive tape. With Paddle (B) slightly bent, attach the tape to the center. 
 
-Wrap the last inch around the non-scored edge.
+![Paddle piece with close up of tape bump.](assets/part2_tapebump.jpg)
+*Tape bump on the paddle piece.*
+
+When you straighten the Paddle, make sure there is a small raised edge where the scored line is. 
+
+![Backside of the paddle piece with tape wrapped around the edge.](assets/part2_paddleback.jpg)
+*Backside of the paddle piece with tape wrapped around the edge.*
+
+Wrap the last inch of the tape around the non-scored edge.
+
 <!-- > ✏️ **Note**: Note.
 
 > ⚠️ **Caution**: Caution. 
@@ -134,36 +146,36 @@ Wrap the last inch around the non-scored edge.
 
 ---
 
-### Part 3: Assembling the switch
 #### Step 1: Audio jack attachment
-![alt text](image path)
-*Caption here*
+![Tape over wire 1 on base A](assets/Part3Step1.jpeg)
+*Base A with wire 1 secured by tape*
 
 
 Place audio jack cable on foam tape:
-- Use 5 inch aluminum tape to secure red wire to Base A
-- Red wire should be attached along long edge
+- Use 5 inch aluminum tape to secure wire 1 to Base A
+- Wire 1 should be attached along long edge
 
-#### Step 2: 
-![alt text](image path)
-*Caption here*
+#### Step 2: Secure shims on base A
+![Layers of foam tape and shims on base A](assets/Part3Step2.jpeg)
+*Foam tape secured shims on base A*
 
 Use foam tape to secure shims on base A:
+- Foam tape should connect layers
 - Shims should stack along short edge of base A
-- Secure shims close to black wire but keep white wire out
+- Secure shims close to wire 1 but keep wire 2 out
  
- #### Step 3: 
- ![alt text](image path)
-*Caption here*
+ #### Step 3: Attach base B
+ ![Base B secured on shims using foam tape](assets/Part3Step3.jpeg)
+*Base B secured with foam tape on shims*
 
- Secure paddle B to foam tape on top of shims
+ Secure base B to foam tape on top of shims
 -  Align front edges
 
-#### Step 4:
-![alt text](image path)
-*Caption here*
+#### Step 4: Secure wire 2
+![Wire 2 secured on top of base B with aluminum tape](assets/Part3Step4.jpeg)
+*Wire 2 secured with aluminum tape*
 
-Tape white wire to top with aluminum tape
+Tape wire 2 to top with aluminum tape
 - Ensure wire and tape are firmly attached
 
 

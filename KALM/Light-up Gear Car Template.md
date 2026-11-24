@@ -3,7 +3,7 @@
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
-Version no. 1 and last updated on 11/18/2026
+Version no. 1 and last updated on 11/22/2026
 
 <!-- Many teams included alt text eyyy -->
 <img src="kalm-pics/toy-and-box.jpg" alt="Picture of toy" />
@@ -21,7 +21,7 @@ Version no. 1 and last updated on 11/18/2026
 ## Toy details
 **Link**: https://a.co/d/0idWK1Hf 
 
-**Name**: Light Up Fire Truck Toy for Kids 3+,Baby Sensory Car with Music,Boy Gifts 
+**Name**: Light Up Fire Truck Toy for Kids 3+, Baby Sensory Car with Music, Boy Gifts 
 
 **Brand**: TNOIE
 
@@ -40,7 +40,7 @@ Features: Lights & Music
 
 Bump-and-Go Movement: Changes direction automatically when hitting objects
 
-2 Modes: Off, lights with movement and music
+2 Modes: Off OR lights with movement and music
 
 Material: Plastic
 
@@ -160,7 +160,7 @@ Check to make sure all features work: Does the car light up? Drive? Play music?
 ### Step 3: Preparing for disassembly / Lay out tools
 
 *Image of toy and tools laid out* 
-Remove batteries and prepare dissasembly tools.
+Remove batteries and prepare disassembly tools.
 
 ---
 
@@ -201,27 +201,24 @@ Unscrew an addtional 4 screws.
 ## Part 3: Soldering
 > ⚠️ **Caution**: Remove the batteries before soldering!!!
 
-There are 2 soldering options given the design of the toy:
+There are 2 soldering options for adapting this toy:
 
 **Option A**: Lights ONLY
-**Option B**: Driving and Sound
+**Option B**: Driving and sound ONLY
 
-Functions other than the one selected for soldering will only be available through the built in switch on the toy, and will be inaccessible from the adapted switch.
+Functions other than the one selected for soldering will only be available through the built-in switch on the toy, and will be inaccessible from the adapted switch.
 
  ### Step 1: Use soldering iron to melt a droplet of metal onto the right circuit and press the wire in for around 5 seconds
-Give the wire a tug test to see if it is securely attached
+Gently tug the wire to see if it is securely attached
 <img src="" alt="Process photo" />
 
 *Caption here*  
- ### Step 1: Use soldering iron to melt a droplet of metal onto the right circuit and press the wire in for around 5 seconds
-Give the wire a tug test to see if it is securely attached
-<img src="" alt="Process photo" />
 
 *Caption here*  
 ---
 ## Part 4: Making space for the new switch
 ### Step 1: Drill a hole for the headphone jack
-> 💡 **Tip**: We recommend drilling the hole at near the trunk, but this can be adjusted for personal preference.
+> 💡 **Tip**: We recommend drilling the hole near the trunk, but this can be adjusted for personal preference.
 ---
 <img src="kalm-pics/drilling-hole.jpg" alt="Process photo" />
 
@@ -231,7 +228,7 @@ Give the wire a tug test to see if it is securely attached
 <img src="kalm-pics/correct-gear-setup.jpg" alt="Process photo" />
 
 ### Testing
-To see if you correctly adapted the toy, screw back on the cover along and test with the button to see if the car lights up
+To see if you correctly adapted the toy, screw the cover back on and test with the new button to see if the car lights up (Option A) or moves and makes sound (Option B), depending on the soldering option chosen in Part 3.
 
 <img src="kalm-pics/adapted-with-lights-on.jpg" alt="Process photo" />
 
