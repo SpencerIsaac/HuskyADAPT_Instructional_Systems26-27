@@ -172,27 +172,35 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 <!-- Many teams used the quotation function for visual callouts (slay) -->
 <!-- YMCV provided emojis! -->
 
-### Step 1: Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Figure 1.2 for their positions)
+### Step 1: Remove the base attachment screws
 <img src="assets/images/JPEG%20conversions/opening_bottom_1.jpeg" alt="Image of opening bottom using screwdriver" width="300"/>
-
+*Figure 2.1*
 > 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy
 
-### Step 2: Carefully remove the base of the toy
+Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Figure 1.2 for their positions).
 
-This is the inside of the toy that you will see. 
+### Step 2: Remove the base of the toy
+
+Carefully remove the base from the toy body to expose its internal components.
 
 <img src="assets/images/JPEG%20conversions/toy_internal_layout_5.jpeg" alt="Inside of the toy" width="300"/>
+*2.2.: This is what the internal components look like*
 
 ### Step 3: Test activation points
-> ✏️ **Note**: Unlike most toys with a circuit board, this dice roller has connection points where wires connect to components. 
+> ✏️ **Note**: Unlike many toys, this dice roller does not route these connections through a circuit board.
 
-Each black and red pair activates the corresponding button to the dice roller. Test this by taking a strip wire with both ends exposed, and placing each end on a black and red point.
+This dice roller has connection points where wires connect to components. Identify all 4 black and red wire pairs that share the same connection point. Each pair corresponds to a button.
+
+<!-- Insert image pointing out connection points, and example of black and red pair. -->
+*2.3: 4 black and red wire pairs that connect to components*
+
+To test activation points, briefly bridge the black and red points in its pair with a test wire that has exposed metal at both ends. The corresponding button will activate.
 
 <img src="assets/images/JPEG%20conversions/testing_wires_2.jpeg" alt="Testing the wires to find the activation points" width="300"/>
+*2.3: Test activation points (buttons) by using a test wire*
 
 ### Step 4: Identify the two pins you wish to connect.
 This would correspond to the next part of the manual where you make space for the new switch.
-
 
 ---
 
