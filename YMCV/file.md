@@ -175,6 +175,7 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 ### Step 1: Remove the base attachment screws
 <img src="assets/images/JPEG%20conversions/opening_bottom_1.jpeg" alt="Image of opening bottom using screwdriver" width="300"/>
 *Figure 2.1*
+
 > 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy
 
 Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Figure 1.2 for their positions).
