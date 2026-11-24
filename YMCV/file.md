@@ -197,7 +197,12 @@ This would correspond to the next part of the manual where you make space for th
 ---
 
 ## Part 3: Making space for the new switch
-Start part 3 with choosing where to attach the adapted button's wire to the dice roller. Then, following with drilling a hole into the toy, safely.
+
+### Step 1: The adapted toy will have a headphone jack with its leads soldered to the activation points of the toy (refer to [Part 2](#part-2-understanding-the-circuitry)) that connects to a switch. This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
+
+### Step 2: Use the electric drill to open up a hole at your determined spot
+
+> ⚠️ **Caution**: Make sure that someone else is securing the toy in place while drilling, so that it doesn't go flying off 
 
 ---
 
