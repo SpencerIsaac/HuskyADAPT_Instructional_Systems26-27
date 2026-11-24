@@ -53,13 +53,13 @@ This project requires beginner-level soldering and hand-tool usage.
 - [Full procedure](#full-procedure)
     - [Part 1: Preparing the toy](#part-1-preparing-the-toy)
         - [Step 1: Remove the toy from the package](#step-1-remove-the-toy-from-the-package)
-        - [Step 2: Declarative step](#step-2-declarative-step)
-        - [Step 3: Declarative step](#step-3-declarative-step)
+        - [Step 2: Note key points on the toy](#step-2-declarative-step)
+        - [Step 3: Press all buttons to assess the functionality of the toy.](#step-3-declarative-step)
     - [Part 2: Understanding the circuit board](#part-2-understanding-the-circuit-board)
     - [Part 3: Making space for the new switch](#part-3-making-space-for-the-new-switch)
     - [Part 4: Soldering](#part-4-soldering)
-        - [4.1: Custom Soldering 1](#41-custom-soldering-1)
-        - [4.2: Custom Soldering 2](#42-custom-soldering-2)
+        - [4.1: Prepare and apply flux to the wires](#41-custom-soldering-1)
+        - [4.2: Solder the wires to the activation points](#42-custom-soldering-2)
     - [Part 5: Testing and reassembling the adapted toy](#part-5-testing-and-reassembling-the-adapted-toy)
 - [Appendix](#appendix)
     - [Troubleshooting](#troubleshooting)
@@ -88,18 +88,18 @@ The general procedure for toy adaptation is as follows:
 # Safety precautions
 This adaptation requires the use of a soldering iron and drill.  
 
-When drilling or soldering:
+### When drilling or soldering:
 - Be alert and aware of your surroundings.
 - Wear safety goggles.
 - Tie back long hair and secure loose-fitting clothing.
 - Take all batteries out of the toy.
 
-When soldering:
+### When soldering:
 - Ensure that you are in a well-ventilated room. Turn on a fan if possible.
 - Ensure soldering iron cords will not be tripped over.
 - Keep your hands away from the iron tip, soldering connection, or anything that has recently touched the tip.
 
-When drilling:
+### When drilling:
 - Drill away from yourself and watch your fingers.  
 
 # Tools and setup
@@ -128,7 +128,7 @@ When drilling:
 ## Setup
 
 <figure>
-    <img src="assets/images/soldering_equipment_4.HEIC" alt="Image of soldering setup">
+    <img src="assets/images/JPEG%20conversions/soldering_equipment_4.jpeg" alt="Image of soldering setup" width="300"/>
     <figcaption>Example setup</figcaption>
 </figure>
 
@@ -173,32 +173,34 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 <!-- YMCV provided emojis! -->
 
 ### Step 1: Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Figure 1.2 for their positions)
+<img src="assets/images/JPEG%20conversions/opening_bottom_1.jpeg" alt="Image of opening bottom using screwdriver" width="300"/>
 
 > 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy
 
 ### Step 2: Carefully remove the base of the toy
+
+This is the inside of the toy that you will see. 
+
+<img src="assets/images/JPEG%20conversions/toy_internal_layout_5.jpeg" alt="Inside of the toy" width="300"/>
 
 ### Step 3: Test activation points
 > ✏️ **Note**: Unlike most toys with a circuit board, this dice roller has connection points where wires connect to components. 
 
 Each black and red pair activates the corresponding button to the dice roller. Test this by taking a strip wire with both ends exposed, and placing each end on a black and red point.
 
+<img src="assets/images/JPEG%20conversions/testing_wires_2.jpeg" alt="Testing the wires to find the activation points" width="300"/>
+
 ### Step 4: Identify the two pins you wish to connect.
 This would correspond to the next part of the manual where you make space for the new switch.
 
-### Step x:
-
-> ✏️ **Note**: Note.
-
-> ⚠️ **Caution**: Caution. 
-
-> 💡 **Tip**: Tip.  
 
 ---
 
 ## Part 3: Making space for the new switch
 
-### Step 1: The adapted toy will have a headphone jack with its leads soldered to the activation points of the toy (refer to [Part 2](#part-2-understanding-the-circuitry)) that connects to a switch. This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
+### Step 1: The adapted toy will have a headphone jack with its leads soldered to the activation points of the toy (refer to [Part 2](#part-2-understanding-the-circuitry)) that connects to a switch. 
+
+This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
 
 ### Step 2: Use the electric drill to open up a hole at your determined spot
 
@@ -214,23 +216,25 @@ This would correspond to the next part of the manual where you make space for th
 
 ### 4.1: Prepare and apply flux to the wires
 
-1. Strip a small amount of insulation (about 1/8" to 1/4") from the ends of the headphone jack wires so the bare wire strands are exposed.
-2. Twist the exposed strands tightly between your fingers so they do not fray.
-3. Apply a small amount of flux to the wire ends or connection points to help the solder flow cleanly.
+#### Step 1: Strip a small amount of insulation (about 1/8" to 1/4") from the ends of the headphone jack wires so the bare wire strands are exposed.
+#### Step 2: Twist the exposed strands tightly between your fingers so they do not fray.
+#### Step 3: Apply a small amount of flux to the wire ends or connection points to help the solder flow cleanly.
 
-<img src="assets/images/JPEG%20conversions/IMG_7567.jpeg" alt="Applying flux from a green flux pen to wires inside the dice roller base" width="300"/>
+<img src="assets/images/JPEG%20conversions/soldering_5.jpeg" alt="Applying flux from a green flux pen to wires inside the dice roller base" width="300"/>
 
 *4.1: Applying flux to the connection area while holding the wires in place*
+
+<img src="assets/images/JPEG%20conversions/soldering_iron_&_metal_1.jpeg" alt="Close up using flux" width="300"/>
 
 > 💡 **Tip**: Using flux makes it much easier for solder to wet the metal cleanly and reduces the chance of cold joints or solder bridges.
 
 ### 4.2: Solder the wires to the activation points
 
-1. Locate the two activation points (such as a red and black wire pair or switch terminals) you identified in [Part 2](#part-2-understanding-the-circuitry) for the button you want to adapt.
-2. Hold the soldering iron tip against the joint while feeding a small amount of solder so it flows smoothly around the connection.
-3. Remove the solder first, then the iron, and hold the wire steady for a couple of seconds until the joint solidifies. Repeat for the second wire.
+#### Step 1: Locate the two activation points (such as a red and black wire pair or switch terminals) you identified in [Part 2](#part-2-understanding-the-circuitry) for the button you want to adapt.
+#### Step 2: Hold the soldering iron tip against the joint while feeding a small amount of solder so it flows smoothly around the connection.
+#### Step 3: Remove the solder first, then the iron, and hold the wire steady for a couple of seconds until the joint solidifies. Repeat for the second wire.
 
-<img src="assets/images/JPEG%20conversions/IMG_7575.jpeg" alt="Soldering iron and solder wire joining a wire to a terminal inside the dice roller base" width="300"/>
+<img src="assets/images/JPEG%20conversions/soldering_9.jpeg" alt="Soldering iron and solder wire joining a wire to a terminal inside the dice roller base" width="300"/>
 
 *4.2: Soldering the wire onto the activation point inside the dice roller base*
 
@@ -244,21 +248,32 @@ This would correspond to the next part of the manual where you make space for th
 ## Part 5: Testing and reassembling the adapted toy
 
 ### Step 1: Pop the cover of the battery compartment and reinsert the batteries
+<img src="assets/images/JPEG%20conversions/toy_upside_down_2.jpeg" alt="Popping the cover off" width="300"/>
+
+<img src="assets/images/JPEG%20conversions/batteries_2.jpeg" alt="Inserted batteries again" width="300"/>
+
 
 ***
 
 ### Step 2: Plug the switch into the headphone jack
-<img src="assets/images/JPEG%20conversions/headphone_jack_%26_button_9.jpeg" alt="Image of headphone jack and adapted switch being connected” width="300”/>
+<img src="assets/images/JPEG%20conversions/headphone_jack_&_button_9.jpeg" alt="Image of headphone jack and adapted switch being connected" width="300"/>
+
 
 *5.1: The headphone jack being connected to the adapted switch
 
 ***
 
-### Step 3: Test the functionality of the toy by pressing on the switch once. If the toy fails to activate, refer to [troubleshooting for failed toy activation](#what-do–I-do-if-the-toy-does-not-respond-after-adapting-it-and-pressing-the-adapted-switch) or revisit [Part 4: Soldering](#part-4-soldering). Check that there are no issues with the batteries and that the headphone jack cable is soldered securely to the original activation switch of the toy
+### Step 3: Test the functionality of the toy by pressing on the switch once. 
+If the toy fails to activate, refer to [troubleshooting for failed toy activation](#what-do–I-do-if-the-toy-does-not-respond-after-adapting-it-and-pressing-the-adapted-switch) or revisit [Part 4: Soldering](#part-4-soldering). Check that there are no issues with the batteries and that the headphone jack cable is soldered securely to the original activation switch of the toy
+<img src="assets/images/JPEG%20conversions/completed_2.jpeg" alt="Testing original toy buttons to make sure they work" width="300"/>
+
+
 
 ***
 
 ### Step 4: Use the Phillips screwdriver to re-screw the base attachment screws of the toy into place
+<img src="assets/images/JPEG%20conversions/rescrewing_1.jpeg" alt="screwing the base back into place" width="300"/>
+
 
 > ✏️ **Note**: Refer to [Step 2 of Part 1](#step-2-note-the-points-marked-in-fig-1.2) for the positions of the base attachment screws
 
@@ -276,7 +291,7 @@ This would correspond to the next part of the manual where you make space for th
 
 ### Step 7: Congratulations, you have successfully switch adapted the Automatic Dice Roller Cup with Dices for Adults Party Table Games EK1981!
 
-
+<img src="assets/images/JPEG%20conversions/button_press_&_dice_6.jpeg" alt="Working switch adapted dice roller" width="300"/>
 
 <!-- Completely new -->
 
