@@ -248,7 +248,9 @@ The exposed leads should be on the inside of the toy
 Tie the zip tie to the headphone jack cable on the inside of the toy, cut the excess zip tie cord with the wire cutter, and secure the zip tie to the headphone jack cable with hot glue.  
 
 <img src="assets/images/zip_tie.png" alt="Image of zip tie" width=300>
+
 *3.4: Tying the zip tie to the headphone jack cable. Photo courtesy of [Switch Adapted Toys](https://www.youtube.com/@switchedadaptedtoys)*
+
 ---
 
 ## Part 4: Soldering
