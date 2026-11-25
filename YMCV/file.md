@@ -220,10 +220,18 @@ This means that you will need to drill a hole in the toy and thread the headphon
 
 <img src="assets/images/JPEG%20conversions/drilling_hole_top_view.jpeg" alt="Image of drilling hole through determined spot" width="300"/>
 
-*3.1: Drill a hole through your determined spot*
+*3.2: Drill a hole through your determined spot*
 
 > ⚠️ **Caution**: Make sure that someone else is securing the toy in place while drilling, so that it doesn't go flying off 
 
+### Step 3: Thread the headphone jack cable through the hole you just created. The exposed leads should be on the inside of the toy 
+
+<img src="assets/images/JPEG%20conversions/toy_underside_opened_9.jpeg" alt="Image of threading the headphone jack cable through the newly created hole" width="300"/>
+
+*3.3: Threading the headphone jack cable through the newly created hole*
+
+### Step 4: Ensure that the headphone jack cable doesn't get ripped out.
+Tie the zip tie to the headphone jack cable on the inside of the toy, cut the excess zip tie cord with the wire cutter, and secure the zip tie to the headphone jack cable with hot glue.  
 ---
 
 ## Part 4: Soldering
