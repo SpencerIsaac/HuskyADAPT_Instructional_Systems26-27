@@ -473,7 +473,9 @@ If the toy fails to activate, refer to [troubleshooting for failed toy activatio
 Refer to the [FAQ document](../TBD/FAQ.md)
 
 ## Resources
-- List of links?
+- https://www.makersmakingchange.com/news/how-to-switch-adapt-toys-MCQSYU3KIXSJC33GMGEBHXASBR2I
+- https://www.youtube.com/watch?v=VutOVLyrxc8
+- https://youtu.be/Qps9woUGkvI?si=kMMVBP4JFrHOx7ky
 
 ## Acknowledgements
 
