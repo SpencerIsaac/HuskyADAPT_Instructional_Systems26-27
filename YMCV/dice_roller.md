@@ -220,7 +220,7 @@ This would correspond to the next part of the manual where you make space for th
 
 This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
 
-<img src="assets/images/drilling_spots.png" alt="Image of viable drilling spots">
+<img src="assets/images/drilling_spots.png" alt="Image of viable drilling spots" width=300>
 
 *3.1: Location of our drilled spot and other viable spots*
 
