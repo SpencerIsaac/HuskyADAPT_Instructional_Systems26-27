@@ -255,6 +255,10 @@ Tie the zip tie to the headphone jack cable on the inside of the toy, cut the ex
 
 ## Part 4: Soldering
 
+> ⚠️ **Caution**: Wear safety goggles and exercise caution while operating the soldering iron
+
+> 💡 **Tip**: If it's been a while since you last soldered and need a refresher, reference a [soldering tutorial video](https://youtu.be/Qps9woUGkvI?is=0hSNWlaVvcKcSvWT)
+
 ### 4.1: Prepare and apply flux to the wires
 
 #### Step 1: Strip a small amount of insulation (about 1/8" to 1/4") from the ends of the headphone jack wires so the bare wire strands are exposed.
