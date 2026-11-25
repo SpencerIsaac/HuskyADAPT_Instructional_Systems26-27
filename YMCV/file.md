@@ -175,13 +175,13 @@ Press all buttons (indicated by purple circles in Fig. 2.2), one by one, to asse
 <!-- YMCV provided emojis! -->
 
 ### Step 1: Remove the base attachment screws
+Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Fig. 1.2 for their positions)
+
 <img src="assets/images/JPEG%20conversions/opening_bottom_1.jpeg" alt="Image of opening bottom using screwdriver" width="300"/>
 
 *2.1: Opening the bottom of the toy using a screwdriver*
 
 > 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy.
-
-Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Fig. 1.2 for their positions).
 
 ### Step 2: Remove the base of the toy
 
