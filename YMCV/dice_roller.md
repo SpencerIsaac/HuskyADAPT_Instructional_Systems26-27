@@ -216,10 +216,20 @@ This would correspond to the next part of the manual where you make space for th
 
 ## Part 3: Making space for the new switch
 
-### Step 1: The adapted toy will have a headphone jack with its leads soldered to the activation points of the toy (refer to [Part 2](#part-2-understanding-the-circuitry)) that connects to a switch. 
+### Step 1: Find a suitable location for the headphone jack cable
 
-This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
+The adapted toy will have a headphone jack with its leads soldered to the activation points of the toy (refer to [Part 2](#part-2-understanding-the-circuitry)) that connects to a switch. 
 
+This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. 
+Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
+
+When choosing a suitable location to drill, make sure that:
+
+- The cable does not interfere with the toy's internal wiring or moving components.
+- The hole does not obstruct the battery compartment, original buttons, or screw holes.
+- There is enough space inside the toy to secure the cable without interfering with reassembly.
+
+Refer to Fig. 3.1 for possible drilling locations and mark your selected spot.
 <img src="assets/images/drilling_spots.png" alt="Image of viable drilling spots" width=300>
 
 *3.1: Location of our drilled spot and other viable spots*
@@ -227,17 +237,29 @@ This means that you will need to drill a hole in the toy and thread the headphon
 - **Yellow triangle**: Our drilled spot
 - **Blue ovals**: Viable drilling spots
 
+> 💡 **Tip**: Inspect both the inside and outside of the toy casing before selecting a drilling location.
+
+
 ### Step 2: Use the electric drill to open up a hole at your determined spot
+
+Select a drill bit large enough for the headphone jack cable to pass through. 
+Position the drill perpendicular to the toy casing and apply gentle, steady pressure until the drill bit passes through the plastic.
 
 <img src="assets/images/JPEG%20conversions/drilling_hole_top_view.jpeg" alt="Image of drilling hole through determined spot" width="300"/>
 
 *3.2: Drill a hole through your determined spot*
 
-> ⚠️ **Caution**: Make sure that someone else is securing the toy in place while drilling, so that it doesn't go flying off 
+> ⚠️ **Caution**: Remove all batteries before drilling. Make sure that someone else is securing the toy in place while drilling, so that it doesn't go flying off
+
+Remove any loose plastic debris and smooth any sharp edges around the hole to prevent damage to the cable.
+
 
 ### Step 3: Thread the headphone jack cable through the hole you just created. 
 
-The exposed leads should be on the inside of the toy 
+Feed the exposed wire ends (leads) through the hole from the outside of the toy. 
+Keep the headphone jack on the outside so that it remains accessible for connecting an external switch.
+
+Leave enough cable inside the toy for the leads to reach the activation points without pulling on the wires.
 
 <img src="assets/images/JPEG%20conversions/toy_underside_opened_9.jpeg" alt="Image of threading the headphone jack cable through the newly created hole" width="300"/>
 
@@ -245,7 +267,10 @@ The exposed leads should be on the inside of the toy
 
 ### Step 4: Ensure that the headphone jack cable doesn't get ripped out.
 
-Tie the zip tie to the headphone jack cable on the inside of the toy, cut the excess zip tie cord with the wire cutter, and secure the zip tie to the headphone jack cable with the hot glue gun.  
+1. Wrap a zip tie around the headphone jack cable on the inside of the toy, near the drilled hole.
+2. Tighten the zip tie without damaging the cable insulation.
+3. Trim the excess length of the zip tie using wire cutters.
+4. Use the hot glue gun to secure the zip tie to the cable. Let the glue cool completely.
 
 <img src="assets/images/zip_tie.png" alt="Image of zip tie" width=300>
 
