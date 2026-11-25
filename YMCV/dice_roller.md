@@ -3,7 +3,7 @@
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
-Version 1. Last updated on 22 November 2026.
+Version 1. Last updated on 24 November 2026.
 
 <!-- Many teams included alt text eyyy -->
 <p align = "center"> 
@@ -245,7 +245,7 @@ The exposed leads should be on the inside of the toy
 
 ### Step 4: Ensure that the headphone jack cable doesn't get ripped out.
 
-Tie the zip tie to the headphone jack cable on the inside of the toy, cut the excess zip tie cord with the wire cutter, and secure the zip tie to the headphone jack cable with hot glue.  
+Tie the zip tie to the headphone jack cable on the inside of the toy, cut the excess zip tie cord with the wire cutter, and secure the zip tie to the headphone jack cable with the hot glue gun.  
 
 <img src="assets/images/zip_tie.png" alt="Image of zip tie" width=300>
 
