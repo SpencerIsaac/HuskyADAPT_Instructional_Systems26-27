@@ -278,14 +278,17 @@ This means that you will need to drill a hole in the toy and thread the headphon
 
 ### Step 3: Test the functionality of the toy by pressing on the switch once. 
 If the toy fails to activate, refer to [troubleshooting for failed toy activation](#what-do–I-do-if-the-toy-does-not-respond-after-adapting-it-and-pressing-the-adapted-switch) or revisit [Part 4: Soldering](#part-4-soldering). Check that there are no issues with the batteries and that the headphone jack cable is soldered securely to the original activation switch of the toy
+
 <img src="assets/images/JPEG%20conversions/completed_2.jpeg" alt="Testing original toy buttons to make sure they work" width="300"/>
 
-
+*5.3: Pressing the toy's original buttons to test functionality*
 
 ***
 
 ### Step 4: Use the Phillips screwdriver to re-screw the base attachment screws of the toy into place
 <img src="assets/images/JPEG%20conversions/rescrewing_1.jpeg" alt="screwing the base back into place" width="300"/>
+
+*5.4: Rescrewing the base attachment screws into place*
 
 
 > ✏️ **Note**: Refer to [Step 2 of Part 1](#step-2-note-the-points-marked-in-fig-1.2) for the positions of the base attachment screws
@@ -305,6 +308,8 @@ If the toy fails to activate, refer to [troubleshooting for failed toy activatio
 ### Step 7: Congratulations, you have successfully switch adapted the Automatic Dice Roller Cup with Dices for Adults Party Table Games EK1981!
 
 <img src="assets/images/JPEG%20conversions/button_press_&_dice_6.jpeg" alt="Working switch adapted dice roller" width="300"/>
+
+*5.5: The adapted dice roller*
 
 <!-- Completely new -->
 
