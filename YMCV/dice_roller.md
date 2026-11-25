@@ -230,6 +230,7 @@ When choosing a suitable location to drill, make sure that:
 - There is enough space inside the toy to secure the cable without interfering with reassembly.
 
 Refer to Fig. 3.1 for possible drilling locations and mark your selected spot.
+
 <img src="assets/images/drilling_spots.png" alt="Image of viable drilling spots" width=300>
 
 *3.1: Location of our drilled spot and other viable spots*
