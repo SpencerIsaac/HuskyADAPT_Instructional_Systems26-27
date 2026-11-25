@@ -262,10 +262,9 @@ This means that you will need to drill a hole in the toy and thread the headphon
 ## Part 5: Testing and reassembling the adapted toy
 
 ### Step 1: Pop the cover of the battery compartment and reinsert the batteries
-<img src="assets/images/JPEG%20conversions/toy_upside_down_2.jpeg" alt="Popping the cover off" width="300"/>
-
 <img src="assets/images/JPEG%20conversions/batteries_2.jpeg" alt="Inserted batteries again" width="300"/>
 
+*5.1: The batteries being reinserted into the battery compartment*
 
 ***
 
@@ -273,7 +272,7 @@ This means that you will need to drill a hole in the toy and thread the headphon
 <img src="assets/images/JPEG%20conversions/headphone_jack_&_button_9.jpeg" alt="Image of headphone jack and adapted switch being connected" width="300"/>
 
 
-*5.1: The headphone jack being connected to the adapted switch
+*5.2: The headphone jack being connected to the adapted switch*
 
 ***
 
