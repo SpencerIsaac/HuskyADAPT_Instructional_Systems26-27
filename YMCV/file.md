@@ -120,10 +120,14 @@ This adaptation requires the use of a soldering iron and drill.
 8. Safety glasses  
 
 ## Extra Materials
-<img src="assets/images/materials.png" alt="Image of extra materials for adaptation (button switch and headphone jack)" width=300>
+<img src="assets/images/materials_extra.png" alt="Image of extra materials for adaptation (button switch, headphone jack, glue gun, wire cutter, zip tie, and test wire)" width=300>
 
 9. Switch  
 10. 3.5mm headphone jack  
+11. Glue gun
+12. Wire cutter
+13. Zip tie
+14. Test wire
 
 ## Setup
 
@@ -216,6 +220,13 @@ This would correspond to the next part of the manual where you make space for th
 
 This means that you will need to drill a hole in the toy and thread the headphone jack cable through it. Identify a good spot to drill through (the placement of the cable must not disturb the toy’s circuitry and functionality)
 
+<img src="assets/images/drilling_spots.png" alt="Image of viable drilling spots">
+
+*3.1: Location of our drilled spot and other viable spots*
+
+- **Yellow triangle**: Our drilled spot
+- **Blue ovals**: Viable drilling spots
+
 ### Step 2: Use the electric drill to open up a hole at your determined spot
 
 <img src="assets/images/JPEG%20conversions/drilling_hole_top_view.jpeg" alt="Image of drilling hole through determined spot" width="300"/>
@@ -236,6 +247,8 @@ The exposed leads should be on the inside of the toy
 
 Tie the zip tie to the headphone jack cable on the inside of the toy, cut the excess zip tie cord with the wire cutter, and secure the zip tie to the headphone jack cable with hot glue.  
 
+<img src="assets/images/zip_tie.png" alt="Image of zip tie">
+*3.4: Tying the zip tie to the headphone jack cable. Photo courtesy of [Switch Adapted Toys](https://www.youtube.com/@switchedadaptedtoys)*
 ---
 
 ## Part 4: Soldering
@@ -455,13 +468,20 @@ If the toy fails to activate, refer to [troubleshooting for failed toy activatio
 </details>
 
 ## FAQ
-Link out.
+Refer to the [FAQ document](../TBD/FAQ.md)
 
 ## Resources
 - List of links?
 
 ## Acknowledgements
-Resources used to develop this manual. People who helped: contributors, editors, etc.
+
+This manual was developed in alignment with the standards established by [Instructional System's guide to adapting the Bop and Groove Tiger toy](./assets/MMT-Bop_And_Groove_Tiger-Adaptation_Guide.pdf).
+
+**Contributors**:
+
+- **Authors**: Maria Nguyen, Valentina Desmarest, Cindy Zhou, Yuta Fukazawa
+- **Photographers**: Maria Nguyen, Valentina Desmarest
+- **Toy Adapters**: Maria Nguyen, Valentina Desmarest
 
 <!-- Should also live in the style guide. Will be under development! -->
 ## About HuskyADAPT and Instructional Systems
