@@ -177,11 +177,11 @@ Press all buttons (indicated by purple circles in Fig. 2.2), one by one, to asse
 ### Step 1: Remove the base attachment screws
 <img src="assets/images/JPEG%20conversions/opening_bottom_1.jpeg" alt="Image of opening bottom using screwdriver" width="300"/>
 
-*Figure 2.1*
+*2.1: Opening the bottom of the toy using a screwdriver*
 
 > 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy.
 
-Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Figure 1.2 for their positions).
+Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Fig. 1.2 for their positions).
 
 ### Step 2: Remove the base of the toy
 
@@ -189,7 +189,7 @@ Carefully remove the base from the toy body to expose its internal components.
 
 <img src="assets/images/JPEG%20conversions/toy_internal_layout_5.jpeg" alt="Inside of the toy" width="300"/>
 
-*2.2: This is what the internal components look like*
+*2.2: The internal layout of the toy*
 
 ### Step 3: Test activation points
 > ✏️ **Note**: Unlike many toys, this dice roller does not route these connections through a circuit board.
